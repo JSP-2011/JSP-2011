@@ -6,4 +6,4 @@ I enjoy programming, drawing, and graphic design
  - 🌱 Learning Lua, C#, and C++
  - 📘 Class of 2029
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,lua,py,ps,ai)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,lua,py,ps,ai)
